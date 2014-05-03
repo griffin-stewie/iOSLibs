@@ -58,6 +58,14 @@ Twitterrific のように PullToRefresh の Pull 動作と Loading 中の表示�
 * 折れ線
 * 棒グラフ
 
+## チュートリアル
+
+### Flow
+
+[OliverLetterer/Flow](https://github.com/OliverLetterer/Flow "OliverLetterer/Flow")
+
+Facebook の Paper.app 風のチュートリアルライブラリ。音声あり。
+
 ## プログレス・ローディング
 
 ### ASProgressPopUpView
