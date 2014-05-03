@@ -30,3 +30,24 @@ Twitter や Path のようなスクロールに応じて画像が動く UI を�
 [Facebook Paper's tilting panner · Subjective-C](http://subjc.com/facebook-paper-photo-panner/ "Facebook Paper's tilting panner · Subjective-C")
 
 Paper.app のようにデバイスの傾きで大きな画像のpanを実現するサンプルプロジェクト
+## プログレス・ローディング
+
+### ASProgressPopUpView
+
+[alskipp/ASProgressPopUpView](https://github.com/alskipp/ASProgressPopUpView "alskipp/ASProgressPopUpView")
+
+UIProgressView に進捗率を表示するPopOverが付いたもの。進捗率に合わせて色も変わる。
+
+### MBProgressHUD
+
+[jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD "jdg/MBProgressHUD")
+
+定番 HUD ライブラリ
+
+### HTProgressHUD
+
+[Hardtack/HTProgressHUD](https://github.com/Hardtack/HTProgressHUD "Hardtack/HTProgressHUD")
+
+Yet Another MBProgressHUD
+
+
