@@ -8,7 +8,8 @@
 
 Facebook の Paper.app にも使われているアニメーション系ライブラリ
 
-[Full Length Event - Building Paper - YouTube](https://www.youtube.com/watch?v=OiY1cheLpmI "Full Length Event - Building Paper - YouTube")
+* [Full Length Event - Building Paper - YouTube](https://www.youtube.com/watch?v=OiY1cheLpmI "Full Length Event - Building Paper - YouTube")
+* [Facebook Paper のアニメーションエンジン「pop」のソースコードを読んでみる - Over&Out その後](http://d.hatena.ne.jp/shu223/20140502/1399026349 "Facebook Paper のアニメーションエンジン「pop」のソースコードを読んでみる - Over&Out その後")
 
 ### PMTween
 
