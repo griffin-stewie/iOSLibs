@@ -30,6 +30,13 @@ Twitter や Path のようなスクロールに応じて画像が動く UI を�
 [Facebook Paper's tilting panner · Subjective-C](http://subjc.com/facebook-paper-photo-panner/ "Facebook Paper's tilting panner · Subjective-C")
 
 Paper.app のようにデバイスの傾きで大きな画像のpanを実現するサンプルプロジェクト
+
+### UzysAnimatedGifPullToRefresh
+
+[uzysjung/UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh "uzysjung/UzysAnimatedGifPullToRefresh")
+
+Twitterrific のように PullToRefresh の Pull 動作と Loading 中の表示に任意の Gif 画像が設定できる。UIScrollView のカテゴリメソッドで追加できるようになっている。
+
 ## グラフ
 
 ### TEAChart
