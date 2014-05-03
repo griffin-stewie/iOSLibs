@@ -79,3 +79,17 @@ UIProgressView に進捗率を表示するPopOverが付いたもの。進捗率�
 Yet Another MBProgressHUD
 
 
+## ユーティリティ
+
+### color
+
+[thisandagain/color](https://github.com/thisandagain/color "thisandagain/color")
+
+* iOS 7 風のグラデ
+* Hex
+* HSB/HSL の調整
+
+などの UIColor のカテゴリメソッド集
+
+
+
