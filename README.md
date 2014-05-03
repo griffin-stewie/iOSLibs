@@ -30,6 +30,27 @@ Twitter や Path のようなスクロールに応じて画像が動く UI を�
 [Facebook Paper's tilting panner · Subjective-C](http://subjc.com/facebook-paper-photo-panner/ "Facebook Paper's tilting panner · Subjective-C")
 
 Paper.app のようにデバイスの傾きで大きな画像のpanを実現するサンプルプロジェクト
+## グラフ
+
+### TEAChart
+
+[xhacker/TEAChart](https://github.com/xhacker/TEAChart "xhacker/TEAChart")
+
+様々なグラフ表示に対応
+
+* GitHub の contribution グラフ風
+* アナログ時計風
+* 棒グラフ
+
+### GraphKit
+
+[michalkonturek/GraphKit](https://github.com/michalkonturek/GraphKit "michalkonturek/GraphKit")
+
+様々なグラフ表示に対応
+
+* 折れ線
+* 棒グラフ
+
 ## プログレス・ローディング
 
 ### ASProgressPopUpView
