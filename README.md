@@ -23,3 +23,10 @@ Facebook の Paper.app にも使われているアニメーション系ライブ
 
 Twitter や Path のようなスクロールに応じて画像が動く UI を作成するライブラリ
 
+### SubjectiveCPhotoPanner
+
+[subjc/SubjectiveCPhotoPanner](https://github.com/subjc/SubjectiveCPhotoPanner "subjc/SubjectiveCPhotoPanner")
+
+[Facebook Paper's tilting panner · Subjective-C](http://subjc.com/facebook-paper-photo-panner/ "Facebook Paper's tilting panner · Subjective-C")
+
+Paper.app のようにデバイスの傾きで大きな画像のpanを実現するサンプルプロジェクト
