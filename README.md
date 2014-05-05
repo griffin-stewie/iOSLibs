@@ -99,5 +99,32 @@ Yet Another MBProgressHUD
 
 などの UIColor のカテゴリメソッド集
 
+### RNCryptor
 
+[RNCryptor/RNCryptor](https://github.com/RNCryptor/RNCryptor "RNCryptor/RNCryptor")
 
+暗号化
+
+### RHAddressBook
+
+[heardrwt/RHAddressBook](https://github.com/heardrwt/RHAddressBook "heardrwt/RHAddressBook")
+
+アドレスブック関係
+
+### APAddressBook
+
+[Alterplay/APAddressBook](https://github.com/Alterplay/APAddressBook "Alterplay/APAddressBook")
+
+アドレスブック関係
+
+### KSFileUtilities
+
+[karelia/KSFileUtilities](https://github.com/karelia/KSFileUtilities "karelia/KSFileUtilities")
+
+NSURL & path additions
+
+* Query Parameters
+* KSURLFormatter
+* KSURLComponents
+    * NSURLComponents の Backport
+* etc etc    
