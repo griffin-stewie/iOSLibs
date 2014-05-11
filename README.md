@@ -128,3 +128,21 @@ NSURL & path additions
 * KSURLComponents
     * NSURLComponents の Backport
 * etc etc    
+
+## 飛び道具系
+
+### ReactiveCocoa
+
+[ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa "ReactiveCocoa/ReactiveCocoa")
+
+GitHub の @joshaber さんを中心に Functional Reactive Programming を実現するためのライブラリ
+GitHub.app にも使われている
+
+パラダイムが大きく変わるので利用には覚悟が必要。 
+
+### Aspects
+
+[steipete/Aspects](https://github.com/steipete/Aspects "steipete/Aspects")
+
+アスペクト指向を実現するためのライブラリ
+作者は PSPDFKit の @steipete さん
