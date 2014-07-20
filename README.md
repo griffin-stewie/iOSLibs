@@ -37,6 +37,12 @@ Paper.app のようにデバイスの傾きで大きな画像のpanを実現す�
 
 Twitterrific のように PullToRefresh の Pull 動作と Loading 中の表示に任意の Gif 画像が設定できる。UIScrollView のカテゴリメソッドで追加できるようになっている。
 
+### AFViewShaker
+
+[ArtFeel/AFViewShaker](https://github.com/ArtFeel/AFViewShaker "ArtFeel/AFViewShaker")
+
+OSX のログイン画面で不正な値を入力した時のように View を揺らすためのライブラリ。複数のView（例えば UITextField）を渡してアニメーションを掛けることができる。
+
 ## グラフ
 
 ### TEAChart
