@@ -43,6 +43,12 @@ Twitterrific のように PullToRefresh の Pull 動作と Loading 中の表示�
 
 OSX のログイン画面で不正な値を入力した時のように View を揺らすためのライブラリ。複数のView（例えば UITextField）を渡してアニメーションを掛けることができる。
 
+### ECSlidingViewController
+
+[ECSlidingViewController/ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController "ECSlidingViewController/ECSlidingViewController")
+
+ドロワースタイルのViewController。カスタムトランジションのサンプルもある。FIFA っぽい動きもできるっぽい。
+
 ## グラフ
 
 ### TEAChart
