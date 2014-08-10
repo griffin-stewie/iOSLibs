@@ -15,6 +15,14 @@ Facebook の Paper.app にも使われているアニメーション系ライブ
 
 [poetmountain/PMTween](https://github.com/poetmountain/PMTween "poetmountain/PMTween")
 
+### JazzHands
+
+[IFTTT/JazzHands](https://github.com/IFTTT/JazzHands "IFTTT/JazzHands")
+
+IFTTT が作ったアニメーションフレームワーク。Tutorial, Walk-through 画面のサンプルあり。
+
+![ScreenShot](https://raw.github.com/IFTTT/JazzHands/screenshots/screenshots/intro.gif)
+
 ## UI
 
 ### MDCParallaxView
