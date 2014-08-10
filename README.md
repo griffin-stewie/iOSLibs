@@ -158,3 +158,12 @@ GitHub.app にも使われている
 
 アスペクト指向を実現するためのライブラリ
 作者は PSPDFKit の @steipete さん
+
+## Tools
+
+### Objective-C-codegenutils
+
+[square/objc-codegenutils](https://github.com/square/objc-codegenutils "square/objc-codegenutils")
+
+square 製の CLI コマンド集。
+特に objc-colordump コマンドは color palettes からカテゴリメソッドを生成してくれる。
