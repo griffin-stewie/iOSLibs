@@ -149,6 +149,13 @@ NSURL & path additions
     * NSURLComponents の Backport
 * etc etc    
 
+### PSTAlertController
+
+[steipete/PSTAlertController](https://github.com/steipete/PSTAlertController "steipete/PSTAlertController")
+
+iOS 8 で追加された `UIAlertController` と同等のインターフェイスで iOS 7 でも利用できるラッパー
+
+
 ## 飛び道具系
 
 ### ReactiveCocoa
